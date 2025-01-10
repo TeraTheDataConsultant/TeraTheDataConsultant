@@ -1,7 +1,7 @@
 # Welcome! 
 
-Welcome to my professional data consulting github page. I am Tera Earlywine, of @TeraTheDataConsultant. Here you will find various frameworks, SQL and code I've created to solve problems for clients in the software technology industry. 
+I’m Tera Earlywine, the creator of @TeraTheDataConsultant and welcome to my professional GitHub page. Here, you’ll find various frameworks, SQL code, and other solutions I’ve developed to help clients in the software technology industry.
 
-Things also included in this repository are open-source packages relating to AI Agent development I've created to also assist in various programming tasks as a meta-portfolio piece. Please take a look and feel free to reach out. 
+This repository also includes open-source packages I’ve created for AI Agent development. These packages can assist with various programming tasks and serve as a meta-portfolio piece. Feel free to explore and reach out if you have any questions.
 
-My personal account @teraearlywine contains many more passion projects - enjoy! 
+My personal account, @teraearlywine, contains many more passion projects. Enjoy exploring them! 

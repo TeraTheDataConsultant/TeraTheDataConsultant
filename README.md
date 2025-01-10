@@ -4,4 +4,4 @@ I’m Tera Earlywine, the creator of @TeraTheDataConsultant and welcome to my pr
 
 This repository also includes open-source packages I’ve created for AI Agent development. These packages can assist with various programming tasks and serve as a meta-portfolio piece. Feel free to explore and reach out if you have any questions.
 
-My personal account, @teraearlywine, contains many more passion projects. Enjoy exploring them! 
+My personal account, @teraearlywine, contains many more passion projects. Enjoy! 
